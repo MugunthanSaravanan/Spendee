@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="24dp"
+    android:width="24dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24">
+    <path
+        android:fillColor="#000000"
+        android:pathData="M12,2 A10,10 0 1,1 2,12 L12,12 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#000000"
+        android:fillAlpha="0.2"/>
+
+    <!-- Pie slice -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M12,2 A10,10 0 0,1 16,12 L12,12 Z"/>
+
+    <!-- Another pie slice -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M12,2 A10,10 0 0,1 8,12 L12,12 Z"/>
+
+    <!-- Third pie slice -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M12,2 A10,10 0 0,1 12,22 L12,12 Z"/>
+</vector>
